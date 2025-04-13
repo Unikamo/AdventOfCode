@@ -1,0 +1,19 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of code 2024 - Javascript",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unikamo/AdventOfCode.git"
+  },
+  "author": "Foxtrot",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Unikamo/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/Unikamo/AdventOfCode#readme"
+}
